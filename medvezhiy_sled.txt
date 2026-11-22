@@ -1,1 +1,1 @@
-glossary-type-requested-intervals.trycloudflare.com
+resolve-heroes-watched-gap.trycloudflare.com
