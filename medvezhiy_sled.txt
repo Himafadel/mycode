@@ -1,1 +1,1 @@
-core-smaller-release-archived.trycloudflare.com
+mainstream-distribute-sam-fundamental.trycloudflare.com
