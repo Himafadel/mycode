@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 attributes-derby-consolidated-tribal.trycloudflare.com
-=======
-residence-edition-sales-lover.trycloudflare.com
->>>>>>> Stashed changes
