@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 transportation-tiles-platforms-pillow.trycloudflare.com
-=======
-election-belt-cambridge-matches.trycloudflare.com
->>>>>>> Stashed changes
