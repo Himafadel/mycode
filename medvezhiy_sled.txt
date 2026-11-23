@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 collective-arrive-bracelet-pets.trycloudflare.com
-=======
-mountains-notre-traveling-urban.trycloudflare.com
->>>>>>> Stashed changes
