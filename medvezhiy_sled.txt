@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 zinc-territories-hebrew-feeding.trycloudflare.com
-=======
-bread-board-buildings-happen.trycloudflare.com
->>>>>>> Stashed changes
