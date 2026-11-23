@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 mating-tones-tropical-pick.trycloudflare.com
-=======
-grad-mathematics-structure-warning.trycloudflare.com
->>>>>>> Stashed changes
