@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 giant-genes-birmingham-impact.trycloudflare.com
-=======
-morning-sim-receptor-describing.trycloudflare.com
->>>>>>> Stashed changes
