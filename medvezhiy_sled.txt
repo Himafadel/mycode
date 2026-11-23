@@ -1,1 +1,1 @@
-junction-route-del-follows.trycloudflare.com
+measures-blast-alphabetical-logs.trycloudflare.com
