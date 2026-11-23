@@ -1,1 +1,1 @@
-always-cheapest-approval-discount.trycloudflare.com
+handle-reserved-collectible-downloads.trycloudflare.com
