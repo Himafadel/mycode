@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-transport-went-genesis-flyer.trycloudflare.com
-=======
-cologne-reconstruction-nails-heater.trycloudflare.com
->>>>>>> Stashed changes
+cds-awareness-mechanism-fence.trycloudflare.com
