@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 social-expected-survive-but.trycloudflare.com
-=======
-instructional-circle-speakers-photos.trycloudflare.com
->>>>>>> Stashed changes
