@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 reward-views-insulation-see.trycloudflare.com
-=======
-moderators-propose-tract-solely.trycloudflare.com
->>>>>>> Stashed changes
