@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 truth-atlas-labeled-clip.trycloudflare.com
-=======
-ski-saving-believed-milwaukee.trycloudflare.com
->>>>>>> Stashed changes
