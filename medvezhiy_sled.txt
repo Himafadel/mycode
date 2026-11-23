@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 backing-effects-pill-openings.trycloudflare.com
-=======
-cartridges-florist-rhythm-comment.trycloudflare.com
->>>>>>> Stashed changes
