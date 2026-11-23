@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 cardiac-prostores-burke-worcester.trycloudflare.com
-=======
-dress-untitled-applications-mag.trycloudflare.com
->>>>>>> Stashed changes
