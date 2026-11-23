@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 generated-roller-dash-healing.trycloudflare.com
-=======
-producers-parliament-museum-yea.trycloudflare.com
->>>>>>> Stashed changes
