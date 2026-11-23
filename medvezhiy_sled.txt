@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 tech-discussion-degree-just.trycloudflare.com
+=======
+execute-homeland-scanned-democrats.trycloudflare.com
+>>>>>>> Stashed changes
