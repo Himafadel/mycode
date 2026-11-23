@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 permission-asp-workshop-troy.trycloudflare.com
-=======
-sao-deserve-directed-eligible.trycloudflare.com
->>>>>>> Stashed changes
