@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 elect-intranet-walnut-numeric.trycloudflare.com
-=======
-philips-entrance-peace-try.trycloudflare.com
->>>>>>> Stashed changes
