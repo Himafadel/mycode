@@ -1,1 +1,1 @@
-handle-reserved-collectible-downloads.trycloudflare.com
+meetup-goals-established-hourly.trycloudflare.com
