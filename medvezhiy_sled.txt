@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 buildings-prediction-automatically-prayer.trycloudflare.com
-=======
-planners-run-packard-knives.trycloudflare.com
->>>>>>> Stashed changes
