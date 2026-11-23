@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 hawaiian-specific-recycling-resist.trycloudflare.com
-=======
-ross-raised-passed-saves.trycloudflare.com
->>>>>>> Stashed changes
