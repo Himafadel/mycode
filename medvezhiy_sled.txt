@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 naples-phone-blogs-does.trycloudflare.com
-=======
-red-parts-cornell-joining.trycloudflare.com
->>>>>>> Stashed changes
