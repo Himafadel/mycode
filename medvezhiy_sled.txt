@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-ipaq-texas-recommendations-work.trycloudflare.com
-=======
-unwrap-concluded-competitions-pins.trycloudflare.com
->>>>>>> Stashed changes
+acceptance-ser-rooms-classic.trycloudflare.com
