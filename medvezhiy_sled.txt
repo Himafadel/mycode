@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 continue-alberta-criteria-casinos.trycloudflare.com
+=======
+observed-cio-encoding-refer.trycloudflare.com
+>>>>>>> Stashed changes
