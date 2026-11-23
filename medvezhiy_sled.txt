@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 rome-allow-monday-violations.trycloudflare.com
+=======
+clinics-socks-updated-trustee.trycloudflare.com
+>>>>>>> Stashed changes
