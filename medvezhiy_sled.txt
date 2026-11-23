@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 hammer-mon-distributed-great.trycloudflare.com
-=======
-subscriptions-salmon-christmas-bingo.trycloudflare.com
->>>>>>> Stashed changes
