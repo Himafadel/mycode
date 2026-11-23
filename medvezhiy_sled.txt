@@ -1,1 +1,1 @@
-reports-ind-north-specifies.trycloudflare.com
+patterns-morrison-blog-logs.trycloudflare.com
