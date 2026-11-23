@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 forth-vendors-slow-wishing.trycloudflare.com
-=======
-detector-reading-simplified-effects.trycloudflare.com
->>>>>>> Stashed changes
