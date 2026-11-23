@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 empty-slide-argued-affordable.trycloudflare.com
-=======
-mom-wells-utilities-precise.trycloudflare.com
->>>>>>> Stashed changes
