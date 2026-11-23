@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 checklist-needed-aquatic-loops.trycloudflare.com
-=======
-hiv-prairie-picture-depends.trycloudflare.com
->>>>>>> Stashed changes
