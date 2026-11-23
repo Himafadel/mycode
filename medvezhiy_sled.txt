@@ -1,1 +1,1 @@
-measures-blast-alphabetical-logs.trycloudflare.com
+allowed-buzz-pen-atlantic.trycloudflare.com
