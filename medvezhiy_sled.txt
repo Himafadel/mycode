@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 conversion-mil-fisheries-stated.trycloudflare.com
-=======
-hierarchy-cakes-struct-abc.trycloudflare.com
->>>>>>> Stashed changes
