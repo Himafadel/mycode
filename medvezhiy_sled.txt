@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 villas-determines-node-marco.trycloudflare.com
+=======
+simply-athens-standards-committees.trycloudflare.com
+>>>>>>> Stashed changes
