@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 galaxy-secrets-opinions-locator.trycloudflare.com
+=======
+candle-prerequisite-whole-promo.trycloudflare.com
+>>>>>>> Stashed changes
