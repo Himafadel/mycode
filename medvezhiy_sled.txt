@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 eugene-arabic-reproduce-turning.trycloudflare.com
-=======
-aberdeen-nonprofit-probe-moments.trycloudflare.com
->>>>>>> Stashed changes
