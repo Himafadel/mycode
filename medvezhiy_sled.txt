@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 winners-temperatures-seed-nowhere.trycloudflare.com
-=======
-realize-challenged-gig-learn.trycloudflare.com
->>>>>>> Stashed changes
