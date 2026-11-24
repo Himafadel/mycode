@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 cargo-text-cadillac-isaac.trycloudflare.com
-=======
-towards-modules-lisa-states.trycloudflare.com
->>>>>>> Stashed changes
