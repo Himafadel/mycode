@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 organizer-travelling-industrial-heritage.trycloudflare.com
-=======
-creature-computing-booking-compete.trycloudflare.com
->>>>>>> Stashed changes
