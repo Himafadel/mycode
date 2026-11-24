@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 ranch-geographic-specified-teams.trycloudflare.com
-=======
-lotus-incident-bacon-tasks.trycloudflare.com
->>>>>>> Stashed changes
