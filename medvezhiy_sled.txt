@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-wrestling-testament-dining-linux.trycloudflare.com
-=======
-limit-expenditures-configure-context.trycloudflare.com
->>>>>>> Stashed changes
+gilbert-dictionary-writes-spec.trycloudflare.com
