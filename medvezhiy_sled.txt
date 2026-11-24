@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 invention-thread-joint-hang.trycloudflare.com
-=======
-pleasant-topics-adventures-terrain.trycloudflare.com
->>>>>>> Stashed changes
