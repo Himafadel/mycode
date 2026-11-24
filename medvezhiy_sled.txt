@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 fighting-depth-performing-dev.trycloudflare.com
-=======
-vegetation-acknowledge-joy-gcc.trycloudflare.com
->>>>>>> Stashed changes
