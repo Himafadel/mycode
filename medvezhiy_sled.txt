@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 measurements-accepted-waters-banners.trycloudflare.com
-=======
-said-chester-miss-applies.trycloudflare.com
->>>>>>> Stashed changes
