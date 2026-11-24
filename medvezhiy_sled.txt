@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 consoles-productivity-classified-prev.trycloudflare.com
-=======
-stores-bases-consideration-sip.trycloudflare.com
->>>>>>> Stashed changes
