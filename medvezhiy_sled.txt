@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 toxic-ide-plays-with.trycloudflare.com
-=======
-thickness-excluded-tennessee-savannah.trycloudflare.com
->>>>>>> Stashed changes
