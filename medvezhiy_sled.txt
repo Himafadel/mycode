@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 cookie-snapshot-outline-yamaha.trycloudflare.com
-=======
-physiology-abu-pediatric-walls.trycloudflare.com
->>>>>>> Stashed changes
