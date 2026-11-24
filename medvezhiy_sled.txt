@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 rounds-msgid-astronomy-edinburgh.trycloudflare.com
-=======
-infant-oven-surf-stake.trycloudflare.com
->>>>>>> Stashed changes
