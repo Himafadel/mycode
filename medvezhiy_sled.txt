@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 compile-minimal-attract-mins.trycloudflare.com
-=======
-its-triumph-philadelphia-typical.trycloudflare.com
->>>>>>> Stashed changes
