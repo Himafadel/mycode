@@ -1,1 +1,1 @@
-sagem-example-cited-competitions.trycloudflare.com
+messages-competitors-simple-authorization.trycloudflare.com
