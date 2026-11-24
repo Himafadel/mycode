@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 futures-affair-candle-coast.trycloudflare.com
-=======
-input-freeze-consecutive-enabling.trycloudflare.com
->>>>>>> Stashed changes
