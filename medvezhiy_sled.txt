@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 innovation-factor-coordinate-keyboard.trycloudflare.com
-=======
-exception-long-sky-unknown.trycloudflare.com
->>>>>>> Stashed changes
