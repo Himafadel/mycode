@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 clubs-summaries-title-organize.trycloudflare.com
-=======
-tricks-restoration-clearly-tasks.trycloudflare.com
->>>>>>> Stashed changes
