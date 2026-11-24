@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 tribute-ensemble-troubleshooting-alaska.trycloudflare.com
-=======
-distributed-commissions-floral-uses.trycloudflare.com
->>>>>>> Stashed changes
