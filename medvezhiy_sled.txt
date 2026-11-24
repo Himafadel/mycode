@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 comedy-watches-thy-transformation.trycloudflare.com
-=======
-currencies-render-door-nottingham.trycloudflare.com
->>>>>>> Stashed changes
