@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 refrigerator-cluster-broadcasting-little.trycloudflare.com
-=======
-shell-mistakes-asian-cons.trycloudflare.com
->>>>>>> Stashed changes
