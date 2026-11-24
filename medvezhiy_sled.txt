@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 commodities-management-dietary-proxy.trycloudflare.com
-=======
-hurricane-managing-world-departments.trycloudflare.com
->>>>>>> Stashed changes
