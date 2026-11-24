@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 sagem-example-cited-competitions.trycloudflare.com
-=======
-publicity-ryan-eagles-storm.trycloudflare.com
->>>>>>> Stashed changes
