@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 each-pounds-traditional-colin.trycloudflare.com
-=======
-homework-mention-overcome-containers.trycloudflare.com
->>>>>>> Stashed changes
