@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 sims-edgar-papua-toward.trycloudflare.com
-=======
-delivered-calculator-papers-enhancements.trycloudflare.com
->>>>>>> Stashed changes
