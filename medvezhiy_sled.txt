@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 determining-weights-behaviour-sailing.trycloudflare.com
-=======
-debate-period-nutten-acquisitions.trycloudflare.com
->>>>>>> Stashed changes
