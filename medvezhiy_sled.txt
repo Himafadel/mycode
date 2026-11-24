@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 properly-import-dawn-knows.trycloudflare.com
-=======
-cho-accompanying-humor-written.trycloudflare.com
->>>>>>> Stashed changes
