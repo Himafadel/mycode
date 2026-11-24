@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 media-pda-attached-sport.trycloudflare.com
-=======
-paxil-wallet-discovery-concluded.trycloudflare.com
->>>>>>> Stashed changes
