@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 howto-train-geography-stanford.trycloudflare.com
+=======
+implement-floral-zip-satisfaction.trycloudflare.com
+>>>>>>> Stashed changes
