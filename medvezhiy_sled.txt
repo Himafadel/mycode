@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 participation-sixth-consultation-lee.trycloudflare.com
-=======
-specifics-appearing-merchants-servers.trycloudflare.com
->>>>>>> Stashed changes
