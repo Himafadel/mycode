@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 actively-next-blog-cir.trycloudflare.com
-=======
-baking-caring-roller-buddy.trycloudflare.com
->>>>>>> Stashed changes
