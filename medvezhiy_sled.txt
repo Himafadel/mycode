@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 ciao-blackberry-venue-mature.trycloudflare.com
-=======
-holiday-whatever-placement-ballet.trycloudflare.com
->>>>>>> Stashed changes
