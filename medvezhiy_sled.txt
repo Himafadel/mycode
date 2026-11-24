@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 aspects-behaviour-lodging-dakota.trycloudflare.com
-=======
-spoken-blocking-grams-treasury.trycloudflare.com
->>>>>>> Stashed changes
