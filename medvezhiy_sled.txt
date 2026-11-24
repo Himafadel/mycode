@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 declined-cafe-perry-breach.trycloudflare.com
-=======
-acceptable-moscow-sculpture-guru.trycloudflare.com
->>>>>>> Stashed changes
