@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 exclusion-health-marc-committees.trycloudflare.com
-=======
-formation-together-uncertainty-fuzzy.trycloudflare.com
->>>>>>> Stashed changes
