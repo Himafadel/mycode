@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 ward-methods-excluding-offering.trycloudflare.com
+=======
+temporary-appraisal-keno-sold.trycloudflare.com
+>>>>>>> Stashed changes
