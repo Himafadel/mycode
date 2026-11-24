@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 tactics-essays-americans-workflow.trycloudflare.com
-=======
-collectors-materials-medal-euros.trycloudflare.com
->>>>>>> Stashed changes
