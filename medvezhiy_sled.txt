@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-template-refused-workstation-suggestion.trycloudflare.com
-=======
-hobby-florence-fabulous-diagram.trycloudflare.com
->>>>>>> Stashed changes
+republican-clouds-villa-featured.trycloudflare.com
