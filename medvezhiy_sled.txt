@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 stocks-translate-flickr-medicine.trycloudflare.com
-=======
-groove-journals-heath-bathroom.trycloudflare.com
->>>>>>> Stashed changes
