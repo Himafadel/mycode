@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 str-mountains-liabilities-health.trycloudflare.com
-=======
-ping-hidden-computing-bull.trycloudflare.com
->>>>>>> Stashed changes
