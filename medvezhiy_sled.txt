@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 organic-growing-situations-monte.trycloudflare.com
-=======
-oasis-designers-immune-tiles.trycloudflare.com
->>>>>>> Stashed changes
