@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 francisco-competitors-prefer-stamp.trycloudflare.com
+=======
+modify-temperatures-computers-distinguished.trycloudflare.com
+>>>>>>> Stashed changes
