@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 bullet-industry-spectrum-pocket.trycloudflare.com
-=======
-identifying-hollow-retrieval-parker.trycloudflare.com
->>>>>>> Stashed changes
