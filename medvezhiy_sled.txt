@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 dance-tuning-ram-whats.trycloudflare.com
-=======
-one-compression-jacket-way.trycloudflare.com
->>>>>>> Stashed changes
