@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 pillow-covered-converted-tracked.trycloudflare.com
-=======
-intelligence-charming-lauren-singing.trycloudflare.com
->>>>>>> Stashed changes
