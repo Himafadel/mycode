@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 bidder-andrew-delivering-floors.trycloudflare.com
-=======
-killing-len-workforce-replace.trycloudflare.com
->>>>>>> Stashed changes
