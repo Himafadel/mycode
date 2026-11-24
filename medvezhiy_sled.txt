@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 theories-bars-multimedia-connectors.trycloudflare.com
-=======
-qui-qty-towers-changed.trycloudflare.com
->>>>>>> Stashed changes
