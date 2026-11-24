@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 variety-ted-insurance-cells.trycloudflare.com
-=======
-locked-productivity-attention-bbs.trycloudflare.com
->>>>>>> Stashed changes
