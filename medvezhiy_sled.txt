@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 cayman-gst-activated-gates.trycloudflare.com
-=======
-kinds-significance-typing-eastern.trycloudflare.com
->>>>>>> Stashed changes
