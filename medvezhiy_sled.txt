@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 moments-wolf-affected-dangerous.trycloudflare.com
-=======
-continent-packets-value-puerto.trycloudflare.com
->>>>>>> Stashed changes
