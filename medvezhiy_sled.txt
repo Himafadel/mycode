@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 lookup-dosage-creating-basket.trycloudflare.com
-=======
-elsewhere-justin-redeem-pubmed.trycloudflare.com
->>>>>>> Stashed changes
