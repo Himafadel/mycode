@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 sam-arlington-freeware-colon.trycloudflare.com
-=======
-boc-lance-advantage-depend.trycloudflare.com
->>>>>>> Stashed changes
