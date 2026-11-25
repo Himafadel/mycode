@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 progress-slots-stays-accordingly.trycloudflare.com
-=======
-massachusetts-restrictions-medical-policies.trycloudflare.com
->>>>>>> Stashed changes
