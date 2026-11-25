@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 test-vitamin-moderator-earn.trycloudflare.com
-=======
-birds-tribune-many-examines.trycloudflare.com
->>>>>>> Stashed changes
