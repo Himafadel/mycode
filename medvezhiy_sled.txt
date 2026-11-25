@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 senate-administered-devel-ultimately.trycloudflare.com
+=======
+wright-cowboy-senate-crew.trycloudflare.com
+>>>>>>> Stashed changes
