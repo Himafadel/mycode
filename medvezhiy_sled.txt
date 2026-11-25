@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 drugs-accomplished-functionality-bool.trycloudflare.com
-=======
-intention-sheer-later-constant.trycloudflare.com
->>>>>>> Stashed changes
