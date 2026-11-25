@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 raid-corresponding-minolta-fired.trycloudflare.com
-=======
-taylor-flickr-folks-textiles.trycloudflare.com
->>>>>>> Stashed changes
