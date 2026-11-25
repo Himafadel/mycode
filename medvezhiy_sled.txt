@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 cdt-vocabulary-tuning-parking.trycloudflare.com
-=======
-surf-achievements-petersburg-appreciate.trycloudflare.com
->>>>>>> Stashed changes
