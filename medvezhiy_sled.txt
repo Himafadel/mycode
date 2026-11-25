@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 tactics-marketing-nicole-wings.trycloudflare.com
-=======
-booth-critics-bool-arab.trycloudflare.com
->>>>>>> Stashed changes
