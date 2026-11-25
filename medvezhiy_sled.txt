@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 connectors-block-assure-eva.trycloudflare.com
-=======
-lows-intent-joins-emacs.trycloudflare.com
->>>>>>> Stashed changes
