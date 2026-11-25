@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 glasgow-guestbook-chips-alan.trycloudflare.com
-=======
-loading-leather-summaries-dependent.trycloudflare.com
->>>>>>> Stashed changes
