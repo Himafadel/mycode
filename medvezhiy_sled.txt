@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 airplane-complex-puerto-respectively.trycloudflare.com
-=======
-observations-pin-least-political.trycloudflare.com
->>>>>>> Stashed changes
