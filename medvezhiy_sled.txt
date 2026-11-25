@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 ipaq-contributors-minolta-explicitly.trycloudflare.com
-=======
-certified-radius-lou-clinton.trycloudflare.com
->>>>>>> Stashed changes
