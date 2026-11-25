@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 vanilla-warehouse-fonts-anymore.trycloudflare.com
-=======
-mount-identity-extends-notification.trycloudflare.com
->>>>>>> Stashed changes
