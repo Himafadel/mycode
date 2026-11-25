@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 forestry-layout-hay-deviant.trycloudflare.com
-=======
-queen-acts-egg-queens.trycloudflare.com
->>>>>>> Stashed changes
