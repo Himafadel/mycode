@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 sixth-maintaining-burke-organic.trycloudflare.com
-=======
-meetings-gordon-equilibrium-eating.trycloudflare.com
->>>>>>> Stashed changes
