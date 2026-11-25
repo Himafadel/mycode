@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 return-heated-luggage-decisions.trycloudflare.com
-=======
-citizens-infrastructure-packaging-simpson.trycloudflare.com
->>>>>>> Stashed changes
