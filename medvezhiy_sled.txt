@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 reviewing-buildings-ranks-curves.trycloudflare.com
-=======
-valium-joshua-colony-vcr.trycloudflare.com
->>>>>>> Stashed changes
