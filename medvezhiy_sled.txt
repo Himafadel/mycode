@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 edt-continuity-hosts-economies.trycloudflare.com
-=======
-universe-agency-mpegs-lite.trycloudflare.com
->>>>>>> Stashed changes
