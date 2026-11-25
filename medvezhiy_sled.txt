@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 supervisor-guidelines-joan-cluster.trycloudflare.com
-=======
-belfast-camcorder-seeks-louisiana.trycloudflare.com
->>>>>>> Stashed changes
