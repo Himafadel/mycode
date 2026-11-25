@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 day-north-enquiry-establishment.trycloudflare.com
-=======
-leonard-lunch-ted-css.trycloudflare.com
->>>>>>> Stashed changes
