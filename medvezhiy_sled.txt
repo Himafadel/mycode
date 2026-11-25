@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 mud-release-margin-invest.trycloudflare.com
-=======
-apparently-separately-phil-recently.trycloudflare.com
->>>>>>> Stashed changes
