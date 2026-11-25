@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 foreign-scale-jewel-tapes.trycloudflare.com
-=======
-prince-dot-complications-arts.trycloudflare.com
->>>>>>> Stashed changes
