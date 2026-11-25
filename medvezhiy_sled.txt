@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 leave-coding-manitoba-acrylic.trycloudflare.com
+=======
+looksmart-awards-eau-thee.trycloudflare.com
+>>>>>>> Stashed changes
