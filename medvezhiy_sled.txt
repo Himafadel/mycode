@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 sink-addressing-generating-sat.trycloudflare.com
-=======
-deutsche-ministers-biology-conservative.trycloudflare.com
->>>>>>> Stashed changes
