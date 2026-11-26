@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 clara-tales-drain-alcohol.trycloudflare.com
-=======
-conversion-feel-offset-monsters.trycloudflare.com
->>>>>>> Stashed changes
