@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 count-university-blocking-introductory.trycloudflare.com
-=======
-ratings-payroll-gordon-hearing.trycloudflare.com
->>>>>>> Stashed changes
