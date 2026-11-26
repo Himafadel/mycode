@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 composer-electronic-nevertheless-nutten.trycloudflare.com
-=======
-robinson-persistent-waiver-mentor.trycloudflare.com
->>>>>>> Stashed changes
