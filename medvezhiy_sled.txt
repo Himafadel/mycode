@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 syndicate-queries-div-francisco.trycloudflare.com
+=======
+certification-frost-changes-katie.trycloudflare.com
+>>>>>>> Stashed changes
