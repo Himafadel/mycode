@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 places-indices-safari-creator.trycloudflare.com
-=======
-abilities-millennium-areas-mineral.trycloudflare.com
->>>>>>> Stashed changes
