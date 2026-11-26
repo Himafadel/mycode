@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 spectrum-cfr-api-grows.trycloudflare.com
-=======
-generators-auto-trigger-regulated.trycloudflare.com
->>>>>>> Stashed changes
