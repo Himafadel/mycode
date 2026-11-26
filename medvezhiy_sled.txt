@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 wines-hayes-merchants-kit.trycloudflare.com
-=======
-roster-exotic-hung-cingular.trycloudflare.com
->>>>>>> Stashed changes
