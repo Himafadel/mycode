@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 lawn-lyric-casino-hosting.trycloudflare.com
-=======
-clinics-launches-dome-ethical.trycloudflare.com
->>>>>>> Stashed changes
