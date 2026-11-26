@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 erp-updated-microphone-regular.trycloudflare.com
+=======
+ethernet-menu-academy-starter.trycloudflare.com
+>>>>>>> Stashed changes
