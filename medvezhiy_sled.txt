@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 sticks-salmon-src-families.trycloudflare.com
-=======
-jean-cholesterol-amendment-badge.trycloudflare.com
->>>>>>> Stashed changes
