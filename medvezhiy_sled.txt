@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-checklist-slow-sector-dover.trycloudflare.com
-=======
-board-seed-pour-wan.trycloudflare.com
->>>>>>> Stashed changes
+infectious-yields-planet-senior.trycloudflare.com
