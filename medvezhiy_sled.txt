@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 flat-dns-insulation-serious.trycloudflare.com
-=======
-contained-signature-worldcat-cache.trycloudflare.com
->>>>>>> Stashed changes
