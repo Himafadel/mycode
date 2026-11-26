@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 conditional-chart-spatial-snake.trycloudflare.com
-=======
-promoted-layer-specialized-nathan.trycloudflare.com
->>>>>>> Stashed changes
