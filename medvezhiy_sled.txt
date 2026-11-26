@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 census-greatest-gardening-irrigation.trycloudflare.com
-=======
-cheaper-guardian-supplied-silk.trycloudflare.com
->>>>>>> Stashed changes
