@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 ranger-pretty-cardiac-related.trycloudflare.com
-=======
-accurate-exactly-seems-formats.trycloudflare.com
->>>>>>> Stashed changes
