@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 extensions-nebraska-thereafter-extent.trycloudflare.com
-=======
-monkey-family-strike-expand.trycloudflare.com
->>>>>>> Stashed changes
