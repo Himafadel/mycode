@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 investigations-flights-devon-websites.trycloudflare.com
-=======
-together-shot-reaction-graham.trycloudflare.com
->>>>>>> Stashed changes
