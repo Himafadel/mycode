@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 november-newport-tampa-classic.trycloudflare.com
-=======
-proposal-presented-sun-behavioral.trycloudflare.com
->>>>>>> Stashed changes
