@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-ripe-thou-absent-kitchen.trycloudflare.com
-=======
-pair-photograph-madrid-request.trycloudflare.com
->>>>>>> Stashed changes
+phones-monitoring-pix-observer.trycloudflare.com
