@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 treatments-wage-coral-tale.trycloudflare.com
-=======
-terms-specially-updates-explosion.trycloudflare.com
->>>>>>> Stashed changes
