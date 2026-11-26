@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 transform-miss-degree-assembled.trycloudflare.com
-=======
-transformation-critical-reported-soviet.trycloudflare.com
->>>>>>> Stashed changes
