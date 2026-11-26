@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 bon-proudly-graph-pending.trycloudflare.com
-=======
-automatic-imperial-total-situated.trycloudflare.com
->>>>>>> Stashed changes
