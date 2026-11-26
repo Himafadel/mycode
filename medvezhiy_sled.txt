@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 discharge-subject-saint-nice.trycloudflare.com
-=======
-memorabilia-sells-songs-components.trycloudflare.com
->>>>>>> Stashed changes
