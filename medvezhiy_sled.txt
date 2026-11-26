@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 comparison-featuring-modules-garcia.trycloudflare.com
-=======
-alex-books-costs-arrangement.trycloudflare.com
->>>>>>> Stashed changes
