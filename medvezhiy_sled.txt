@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 complement-eleven-medium-habitat.trycloudflare.com
-=======
-periods-cal-griffin-earthquake.trycloudflare.com
->>>>>>> Stashed changes
