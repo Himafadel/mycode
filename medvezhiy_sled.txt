@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 verbal-capital-milton-generic.trycloudflare.com
-=======
-effort-theorem-airport-toner.trycloudflare.com
->>>>>>> Stashed changes
