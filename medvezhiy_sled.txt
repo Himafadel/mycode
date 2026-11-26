@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 already-kilometers-worm-coral.trycloudflare.com
-=======
-sandy-roy-corps-changed.trycloudflare.com
->>>>>>> Stashed changes
