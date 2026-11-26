@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 amendment-duties-supports-neural.trycloudflare.com
-=======
-undergraduate-wma-usd-rca.trycloudflare.com
->>>>>>> Stashed changes
