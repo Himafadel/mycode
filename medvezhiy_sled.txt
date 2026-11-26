@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 traffic-brook-tracker-doe.trycloudflare.com
-=======
-mild-magazines-stylus-cookie.trycloudflare.com
->>>>>>> Stashed changes
