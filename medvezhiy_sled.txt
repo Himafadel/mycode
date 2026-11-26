@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 obtaining-logical-abc-lane.trycloudflare.com
-=======
-kansas-anthropology-grows-carries.trycloudflare.com
->>>>>>> Stashed changes
