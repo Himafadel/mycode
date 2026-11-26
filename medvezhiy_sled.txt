@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 guns-sales-partnership-medicines.trycloudflare.com
+=======
+defined-turner-designing-loud.trycloudflare.com
+>>>>>>> Stashed changes
