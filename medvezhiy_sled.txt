@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 discover-invoice-conventions-helicopter.trycloudflare.com
-=======
-coffee-experience-suitable-albert.trycloudflare.com
->>>>>>> Stashed changes
