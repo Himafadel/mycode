@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 create-surgical-cheats-antivirus.trycloudflare.com
-=======
-prayer-model-advised-std.trycloudflare.com
->>>>>>> Stashed changes
