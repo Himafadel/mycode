@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 incomplete-steve-survivor-pending.trycloudflare.com
-=======
-walt-thriller-snowboard-junior.trycloudflare.com
->>>>>>> Stashed changes
