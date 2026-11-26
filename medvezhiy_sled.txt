@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 indicators-boutique-mail-enabling.trycloudflare.com
-=======
-modelling-toddler-connected-drainage.trycloudflare.com
->>>>>>> Stashed changes
