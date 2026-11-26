@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 johnny-weighted-manufacturers-fonts.trycloudflare.com
-=======
-grew-exact-crest-subscribe.trycloudflare.com
->>>>>>> Stashed changes
