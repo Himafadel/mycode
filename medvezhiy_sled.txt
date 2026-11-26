@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 destination-apartment-projected-attract.trycloudflare.com
-=======
-created-outline-shipped-static.trycloudflare.com
->>>>>>> Stashed changes
