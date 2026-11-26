@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 awareness-hampshire-unit-allocated.trycloudflare.com
-=======
-inclusion-useful-listen-tropical.trycloudflare.com
->>>>>>> Stashed changes
