@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 tape-even-reasons-meals.trycloudflare.com
-=======
-magnet-brokers-lamp-cursor.trycloudflare.com
->>>>>>> Stashed changes
