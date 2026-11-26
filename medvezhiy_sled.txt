@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 fairfield-patrick-minerals-architecture.trycloudflare.com
-=======
-quality-arbitration-takes-cindy.trycloudflare.com
->>>>>>> Stashed changes
