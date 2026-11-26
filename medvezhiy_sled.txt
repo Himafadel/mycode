@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 widespread-trusts-net-lenders.trycloudflare.com
-=======
-rhode-sale-focus-random.trycloudflare.com
->>>>>>> Stashed changes
