@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 record-cheapest-school-bite.trycloudflare.com
-=======
-ought-calvin-stopping-lewis.trycloudflare.com
->>>>>>> Stashed changes
