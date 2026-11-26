@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 calcium-prophet-tests-identified.trycloudflare.com
-=======
-rental-actively-away-inspection.trycloudflare.com
->>>>>>> Stashed changes
