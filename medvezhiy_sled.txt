@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 pencil-menu-ross-vegetation.trycloudflare.com
-=======
-ace-tcp-logan-sticky.trycloudflare.com
->>>>>>> Stashed changes
