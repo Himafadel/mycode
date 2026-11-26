@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 acknowledge-assembly-nicholas-intranet.trycloudflare.com
+=======
+retail-authorities-civic-basically.trycloudflare.com
+>>>>>>> Stashed changes
