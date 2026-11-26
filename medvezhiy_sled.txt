@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 pipe-shield-forgotten-radius.trycloudflare.com
-=======
-applies-generator-red-conclude.trycloudflare.com
->>>>>>> Stashed changes
