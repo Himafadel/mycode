@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 rolls-component-effort-restaurants.trycloudflare.com
-=======
-writing-flyer-camp-palace.trycloudflare.com
->>>>>>> Stashed changes
