@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 acoustic-peer-provinces-gaming.trycloudflare.com
-=======
-beatles-blogs-reflected-decreased.trycloudflare.com
->>>>>>> Stashed changes
