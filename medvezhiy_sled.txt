@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 patch-messages-recommendation-innovation.trycloudflare.com
-=======
-kde-snake-showing-running.trycloudflare.com
->>>>>>> Stashed changes
