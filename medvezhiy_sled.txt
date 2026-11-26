@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 php-breathing-supervision-indicators.trycloudflare.com
-=======
-resource-motherboard-colleges-roman.trycloudflare.com
->>>>>>> Stashed changes
