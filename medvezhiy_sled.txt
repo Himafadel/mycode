@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 why-ampland-stake-utilities.trycloudflare.com
-=======
-marilyn-mortgages-closes-passed.trycloudflare.com
->>>>>>> Stashed changes
