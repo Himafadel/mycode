@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 majority-demonstrate-dan-everyday.trycloudflare.com
+=======
+arkansas-opposition-simple-ward.trycloudflare.com
+>>>>>>> Stashed changes
