@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 dod-lambda-inter-slot.trycloudflare.com
-=======
-ratings-birds-row-extension.trycloudflare.com
->>>>>>> Stashed changes
