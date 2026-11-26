@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 contribution-bridge-omaha-sku.trycloudflare.com
-=======
-acknowledge-comply-adams-brighton.trycloudflare.com
->>>>>>> Stashed changes
