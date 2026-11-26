@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 occupational-zshops-floppy-chicago.trycloudflare.com
-=======
-ipaq-scout-guards-podcast.trycloudflare.com
->>>>>>> Stashed changes
