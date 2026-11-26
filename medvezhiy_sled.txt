@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 victory-labs-stamps-der.trycloudflare.com
-=======
-preliminary-luis-range-academy.trycloudflare.com
->>>>>>> Stashed changes
