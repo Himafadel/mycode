@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-pros-coupon-fixes-gotta.trycloudflare.com
-=======
-houses-teams-behavior-criticism.trycloudflare.com
->>>>>>> Stashed changes
+variable-angela-customers-half.trycloudflare.com
