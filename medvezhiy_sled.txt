@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 superintendent-separated-candidates-adsl.trycloudflare.com
-=======
-annotation-brain-dimensions-limitation.trycloudflare.com
->>>>>>> Stashed changes
