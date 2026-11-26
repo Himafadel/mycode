@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 rating-bow-armor-lol.trycloudflare.com
+=======
+contrast-encourages-programming-longest.trycloudflare.com
+>>>>>>> Stashed changes
