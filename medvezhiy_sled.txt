@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 packs-nickel-pac-eng.trycloudflare.com
-=======
-edition-reasonably-accepting-tex.trycloudflare.com
->>>>>>> Stashed changes
