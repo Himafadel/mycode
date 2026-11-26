@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 ladder-judge-initiatives-michael.trycloudflare.com
-=======
-disable-thumbnails-educational-sentence.trycloudflare.com
->>>>>>> Stashed changes
