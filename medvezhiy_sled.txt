@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 congratulations-pounds-heating-int.trycloudflare.com
+=======
+tracy-scanner-thermal-retrieval.trycloudflare.com
+>>>>>>> Stashed changes
