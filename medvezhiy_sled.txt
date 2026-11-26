@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 dragon-wars-private-simply.trycloudflare.com
-=======
-sbjct-above-butterfly-struggle.trycloudflare.com
->>>>>>> Stashed changes
