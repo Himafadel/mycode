@@ -1,1 +1,1 @@
-prevent-watching-budgets-badge.trycloudflare.com
+sticks-salmon-src-families.trycloudflare.com
