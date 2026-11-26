@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 percent-hiking-probability-tournaments.trycloudflare.com
-=======
-drainage-ross-worlds-rings.trycloudflare.com
->>>>>>> Stashed changes
