@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 power-strongly-survivors-appliances.trycloudflare.com
-=======
-importance-turns-recorders-twins.trycloudflare.com
->>>>>>> Stashed changes
