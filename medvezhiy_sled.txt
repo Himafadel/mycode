@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 numbers-substances-few-authorized.trycloudflare.com
-=======
-intensity-scan-eyed-experimental.trycloudflare.com
->>>>>>> Stashed changes
