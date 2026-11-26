@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 preferences-hydraulic-words-asks.trycloudflare.com
-=======
-facilities-searching-heard-teachers.trycloudflare.com
->>>>>>> Stashed changes
