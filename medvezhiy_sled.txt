@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 provision-pentium-sugar-earn.trycloudflare.com
-=======
-cut-answered-intervention-recipe.trycloudflare.com
->>>>>>> Stashed changes
