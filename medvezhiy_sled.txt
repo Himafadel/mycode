@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 sand-tape-bread-morgan.trycloudflare.com
-=======
-tea-landscape-importance-coast.trycloudflare.com
->>>>>>> Stashed changes
