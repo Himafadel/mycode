@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 poet-subsection-rip-disk.trycloudflare.com
-=======
-supervisors-trout-powerpoint-counters.trycloudflare.com
->>>>>>> Stashed changes
