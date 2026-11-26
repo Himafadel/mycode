@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 explained-php-smoking-constitution.trycloudflare.com
-=======
-nose-building-eastern-governmental.trycloudflare.com
->>>>>>> Stashed changes
