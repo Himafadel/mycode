@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 every-bids-checks-groove.trycloudflare.com
-=======
-epinions-chemical-later-respiratory.trycloudflare.com
->>>>>>> Stashed changes
