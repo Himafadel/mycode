@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 wellington-nam-retired-comment.trycloudflare.com
-=======
-transcript-composition-removable-tech.trycloudflare.com
->>>>>>> Stashed changes
