@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 bowling-lexington-windsor-cutting.trycloudflare.com
-=======
-corners-counties-indication-blast.trycloudflare.com
->>>>>>> Stashed changes
