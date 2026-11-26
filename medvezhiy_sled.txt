@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 adds-yards-starsmerchant-helps.trycloudflare.com
-=======
-cannon-longitude-browser-journalists.trycloudflare.com
->>>>>>> Stashed changes
