@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 highway-taken-rover-eos.trycloudflare.com
-=======
-exec-larry-cool-luck.trycloudflare.com
->>>>>>> Stashed changes
