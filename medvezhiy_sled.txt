@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 roman-went-henderson-elephant.trycloudflare.com
-=======
-sensor-inquiry-acceptable-battle.trycloudflare.com
->>>>>>> Stashed changes
