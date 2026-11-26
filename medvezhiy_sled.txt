@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 subscriber-permits-bangkok-town.trycloudflare.com
-=======
-noted-cumulative-carried-slip.trycloudflare.com
->>>>>>> Stashed changes
