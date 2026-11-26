@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 investment-unnecessary-shipments-segment.trycloudflare.com
-=======
-products-regulated-pose-vegetables.trycloudflare.com
->>>>>>> Stashed changes
