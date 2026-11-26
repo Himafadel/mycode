@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 color-sacred-solid-guest.trycloudflare.com
-=======
-protect-shorter-assumed-games.trycloudflare.com
->>>>>>> Stashed changes
