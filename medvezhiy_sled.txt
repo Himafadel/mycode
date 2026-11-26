@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 outputs-counties-day-doors.trycloudflare.com
-=======
-administrators-carey-compensation-cave.trycloudflare.com
->>>>>>> Stashed changes
