@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 thursday-owned-agenda-meters.trycloudflare.com
-=======
-best-twins-solutions-heavily.trycloudflare.com
->>>>>>> Stashed changes
