@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 estates-attachment-genetic-prepared.trycloudflare.com
-=======
-phones-mission-financial-researcher.trycloudflare.com
->>>>>>> Stashed changes
