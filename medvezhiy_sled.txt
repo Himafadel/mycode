@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 previously-deer-versions-italia.trycloudflare.com
-=======
-hope-world-qui-loaded.trycloudflare.com
->>>>>>> Stashed changes
