@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 simpsons-geo-hardly-shops.trycloudflare.com
-=======
-nursery-dis-southern-jpeg.trycloudflare.com
->>>>>>> Stashed changes
