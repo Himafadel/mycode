@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 specifications-anthony-tomato-gsm.trycloudflare.com
-=======
-find-muscle-yellow-southampton.trycloudflare.com
->>>>>>> Stashed changes
