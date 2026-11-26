@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 vanilla-retailer-enforcement-connectors.trycloudflare.com
-=======
-assistance-become-wit-seating.trycloudflare.com
->>>>>>> Stashed changes
