@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 drivers-astronomy-clock-either.trycloudflare.com
-=======
-advisory-sci-badly-widescreen.trycloudflare.com
->>>>>>> Stashed changes
