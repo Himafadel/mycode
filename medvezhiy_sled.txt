@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 disciplines-skiing-hose-compatibility.trycloudflare.com
-=======
-newman-hart-whom-timothy.trycloudflare.com
->>>>>>> Stashed changes
