@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 texts-pipe-nor-startup.trycloudflare.com
-=======
-fancy-bedroom-logos-creates.trycloudflare.com
->>>>>>> Stashed changes
