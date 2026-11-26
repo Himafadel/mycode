@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 beta-tourism-chargers-legend.trycloudflare.com
-=======
-bass-headlines-festival-comparative.trycloudflare.com
->>>>>>> Stashed changes
