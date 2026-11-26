@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 regard-panels-operations-gather.trycloudflare.com
-=======
-recommends-surgery-tournaments-tones.trycloudflare.com
->>>>>>> Stashed changes
