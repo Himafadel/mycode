@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 naturally-monitor-evidence-shape.trycloudflare.com
-=======
-usc-interesting-proceeds-admissions.trycloudflare.com
->>>>>>> Stashed changes
