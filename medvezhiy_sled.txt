@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 event-acre-harder-allen.trycloudflare.com
-=======
-thompson-catch-tomorrow-occurrence.trycloudflare.com
->>>>>>> Stashed changes
