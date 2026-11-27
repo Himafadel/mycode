@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
 router-sun-racing-nyc.trycloudflare.com
-=======
-provinces-vegetation-tag-oregon.trycloudflare.com
->>>>>>> Stashed changes
