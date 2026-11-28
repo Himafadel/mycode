@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-timber-record-precipitation-servers.trycloudflare.com
-=======
-ties-annex-sense-glucose.trycloudflare.com
->>>>>>> Stashed changes
+tax-tribe-creek-screens.trycloudflare.com
